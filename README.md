@@ -1,2 +1,2 @@
 # rsschool-cv
-Junior Developer Resume
+## https://mishashiryakov.github.io/rsschool-cv/
